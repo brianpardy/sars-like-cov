@@ -7,6 +7,7 @@ data/sars-like-cov.fasta-e
 data/metadata.tsv.old
 data/sequences.fasta.orig
 data/sequences.fasta.old
+data/sequences.fasta
 
 # Sensitive environment variables
 environment*
