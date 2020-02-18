@@ -4,6 +4,9 @@ results/
 build/
 data/sars-like-cov.fasta
 data/sars-like-cov.fasta-e
+data/metadata.tsv.old
+data/sequences.fasta.orig
+data/sequences.fasta.old
 
 # Sensitive environment variables
 environment*
